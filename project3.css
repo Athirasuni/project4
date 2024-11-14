@@ -1,0 +1,137 @@
+.sec1{
+    /* background-color: mistyrose; */
+    background-image: url(laptop.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.opcity{
+    background-color: rgba(255, 255, 255, 0.572);
+    padding: 300px 0;
+}
+
+.inbox1{
+   
+}
+
+.inbox1{
+    text-align: center;
+}
+
+.inbox2,.inbox3{
+    padding: 30px;
+}
+
+
+
+
+
+.sec2{
+    /* background-color: aquamarine; */
+}
+.inbox3{
+    float: left;
+    
+}
+span.cr{
+    color:orangered;
+}
+span.sf{
+    color:orangered ;
+}
+
+span.fs{
+    color: black;
+}
+
+span.vd{
+    color: black;
+}
+
+span.pg{
+    color: black;
+    font-size: bold;
+}
+
+span.dw{
+    color: black;
+    font-weight: bold;
+    
+    
+}
+
+.inbox7{
+    padding: 50PX;
+}
+
+.inbox8{
+    text-align: center;
+    
+}
+.inbox12{
+    text-align: center;
+   
+    color: rgb(34, 34, 34);
+}
+.inbox12 button{
+ background-color: crimson;
+ color: white;
+}
+.bold{
+    font-weight: 600;
+}
+
+.inbox13{
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.inbox14{
+    text-align: center;
+    padding: 100px 0;
+}   
+
+.inbox15{
+    text-align: center;
+}
+
+
+    
+.bld{
+    font-size: bold;
+}
+
+span.rly{
+    color: red;
+}
+
+span.mp{
+    color: red;
+}
+
+span.jb{
+    color: red;
+
+}
+span.doller{
+    color: red;
+    
+}
+
+span.fr{
+    color: red;
+}
+
+.inbox7{
+    padding: 25px;
+}
+.sec4{
+    padding: 100px 20px;
+}
+
+
+
+
